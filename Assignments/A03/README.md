@@ -12,4 +12,4 @@ The purpose of this program is to add a delete method to a preexisting binary se
 
 ### Instructions
 
-- Make sure you use the correct method names when testing
+- Make sure you use the correct method names as well as subroot number if you are planning on testing in main
