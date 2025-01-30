@@ -8,7 +8,7 @@ The purpose of this program is to add a delete method to a preexisting binary se
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | Main.cpp         | Main driver of my program.      |
+|   1   | BST_Delete.cpp         | Main driver of my program.      |
 
 ### Instructions
 
