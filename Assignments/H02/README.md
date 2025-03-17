@@ -2,7 +2,7 @@
 ### Zach Barrentine
 ### Description:
 
-The purpose of this homework is to gain a further understanding of hash tables through open addressing and open hashing.
+The purpose of this homework is to gain a further understanding of hash tables through open addressing and open hashing examples.
 
 ## Part A: Conceptual Questions
 - A hash table is a data structure that implements an array by mapping keys to values for quick lookup time.
@@ -25,5 +25,19 @@ The purpose of this homework is to gain a further understanding of hash tables t
   -  If the hash function produces values that share common factors with the table size, systematic collisions may occur.
 
 ## Part B: Simulation and Diagram Exercises
+### Exercise 1: Open Hashing (Separate Chaining)
+- Given the following set of keys: 5, 22, 17, 18, 35, 101, 16, 0, 8
+- Hash table has a size of 10
 
+### Exercise 2: Closed Hashing (Open Addressing)
+- Given the following set of keys: 5, 22, 17, 18, 35, 101, 16, 0, 8
+- Hash table has a size of 10
+
+### Exercise 3: Impact of Poor Table Sizes
+- Given the following set of keys: 5, 10, 15, 20, 25, 30, 35, 40
+- Hash table has a size of 10 and then a size of 11
+
+
+### Exercise 4: Quadratic Probing
+- Given the following set of keys: 12, 23, 34, 45, 56, 67, 78, 89
 
