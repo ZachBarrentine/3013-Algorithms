@@ -106,3 +106,6 @@ Hash values:
 |   8   |       |
 |   9   |       |
 |  10   |   45  |
+
+  - Benefits include the reduction or primary clustering as well as the efficiency in searching and inserting keys.
+  - Drawbacks include the potential performance slowdown as a result of the table becoming nearly full over time.
