@@ -93,3 +93,16 @@ Hash values:
 ### Exercise 4: Quadratic Probing
 - Given the following set of keys: 12, 23, 34, 45, 56, 67, 78, 89
 
+| Index | Value |
+|:-----:|:-----:|
+|   0   |       |
+|   1   |   12  |
+|   2   |   23  |
+|   3   |   78  |
+|   4   |   67  |
+|   5   |   34  |
+|   6   |       |
+|   7   |   56  |
+|   8   |       |
+|   9   |       |
+|  10   |   45  |
