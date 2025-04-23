@@ -4,7 +4,7 @@
 |                                Global Food Security Index Presentation                                 |
 | :------------------------------------------------------------------------: |
 |     ![Food Security Presentation](https://github.com/user-attachments/assets/c3cbf2fe-de38-4cfe-a6a0-6d393b9ebbfa) 
-| This is a presentation in Cheyenne on April 23rd on the Global Food Security Index. It presented key findings on education and its impact on food security as well as policy implications such as lower remittance costs. |
+| This is a presentation in Cheyenne on April 23rd on the Global Food Security Index. It presented key findings on education and its impact on food security as well as potential policy implications such as lower remittance costs. |
 
 |                                Geophysical Imaging Board                                 |
 | :------------------------------------------------------------------------: |
