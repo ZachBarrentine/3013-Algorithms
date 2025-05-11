@@ -1,8 +1,38 @@
-# Dinic's Algorithm – Presentation README
+# Dinic's Algorithm with Jack Tsui – Presentation README
 
 
 
 ---
+
+- Link: https://docs.google.com/presentation/d/1Vyw5ANiPuFRstLEDQUKbjJPx5P7_KvIwW_gLu21AC24/edit
+  
+## 🖌️ Test Question:
+
+What type of problem is Dinic's algorithm designed to solve?
+- A. Sorting data
+- B. Finding the shortest path
+- C. Solving flow networks
+- D. Detecting cycles in graphs
+
+Answer: C
+
+How does the time complexity of Dinic’s algorithm scale in the general case with respect to a graph with V vertices and E edges?
+- A. O(V+E)
+- B. O(V^2)
+- C. (VE^2)
+- D. (V^2E)
+
+Answer: D
+
+Question: What is the first step Dinic’s algorithm performs in each phase?
+- A. Depth-first search (DFS)
+- B. Sort all the edges
+- C. Build a level graph using breadth-first search (BFS)
+- D. Remove cycles from the graph
+
+Answer: C
+
+
 
 ## 📅 Presentation Layout
 
@@ -43,39 +73,6 @@
 
 ---
 
-## 🖌️ Quiz Questions
-
-### Multiple Choice (3):
-1. What is the main innovation in Dinic’s algorithm?
-   - A. Randomized paths
-   - B. Greedy choices
-   - C. Blocking flow via DFS **(correct)**
-   - D. Capacity scaling
-
-2. Dinic's algorithm is especially efficient on graphs with:
-   - A. Cycles only
-   - B. Negative weights
-   - C. Unit capacities **(correct)**
-   - D. Trees only
-
-3. What is the worst-case time complexity of Dinic’s algorithm on general graphs?
-   - A. O(VE²)
-   - B. O(EV²) **(correct)**
-   - C. O(V + E)
-   - D. O(V log V)
-
-### Fill-in-the-Blank (2):
-1. Dinic's algorithm constructs a **____ graph** using BFS to define levels of nodes.  
-   **Answer:** level
-
-2. A **____ flow** is a flow where no more augmenting paths can be found in the level graph.  
-   **Answer:** blocking
-
----
-
-
-
-## ⚡️ Citation
 
 
 
